@@ -9,7 +9,7 @@ Short URL is a Node.js application that allows you to shorten long URLs into sho
 - Analytics: Track the number of clicks and other metrics for each short URL.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/short-url.git`
+1. Clone the repository: `git clone https://github.com/sanjayvihaan/shortURL.git`
 2. Install dependencies: `npm install`
 
 ## Usage
